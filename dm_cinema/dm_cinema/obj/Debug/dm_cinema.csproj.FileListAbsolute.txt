@@ -1,0 +1,11 @@
+F:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.AssemblyReference.cache
+F:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.SuggestedBindingRedirects.cache
+F:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.CoreCompileInputs.cache
+D:\Études\D3\tp\dm_cinema\dm_cinema\bin\Debug\dm_cinema.exe.config
+D:\Études\D3\tp\dm_cinema\dm_cinema\bin\Debug\dm_cinema.exe
+D:\Études\D3\tp\dm_cinema\dm_cinema\bin\Debug\dm_cinema.pdb
+D:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.AssemblyReference.cache
+D:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.SuggestedBindingRedirects.cache
+D:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.csproj.CoreCompileInputs.cache
+D:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.exe
+D:\Études\D3\tp\dm_cinema\dm_cinema\obj\Debug\dm_cinema.pdb
